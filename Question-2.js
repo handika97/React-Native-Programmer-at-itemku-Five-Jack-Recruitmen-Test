@@ -1,7 +1,7 @@
 // const users= [2, 1, 2, 6, 2, 4, 3, 3];
 // const N= 5
 
-function solutions(N, users) {
+function solution(N, users) {
     let answer = []
     let newUser = users
     for (let i = 0; i < N; i++) {
